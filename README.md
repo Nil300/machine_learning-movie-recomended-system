@@ -7,6 +7,6 @@ machine learning movie recomended web app with flask
 
 ### i did EDA(Exploratory Data Analysis) part separetly in notebook file, i also merge english, hind and other european movies, feel free to explor it
 
-## Just Download folder and install required python packages
+## Just Download folder and install required python packages and run app.py file
 
 ![](https://raw.githubusercontent.com/Nil300/machine_learning-movie-recomended-system/main/webApp.png)
